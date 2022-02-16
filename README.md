@@ -7,7 +7,7 @@
 ✳️ pip2 install requests
 ✳️ pip2 install mechanize
 ✳️ pkg install git
-✳️ git clone https://github.com/
+✳️ git clone https://github.com/d3v1l-k1n9/DK-Bomber.git
 ✳️ cd DK-Bomber
 ✳️ python2 DK-Bomb.py
 
