@@ -9,7 +9,7 @@ SMS BOMBING TOOL
 ✳️ pip2 install requests
 ✳️ pip2 install mechanize
 ✳️ pkg install git
-✳️ git clone https://github.com/d3v1l-k1n9/DK-Bomber.git
+✳️ git clone https://github.com/Devil-King-Monayem/DK-Bomber
 ✳️ cd DK-Bomber
 ✳️ python DK-Bomb.py
 
