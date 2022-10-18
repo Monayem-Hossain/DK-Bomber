@@ -1,11 +1,10 @@
 SMS BOMBING TOOL
 
-##Installation##
 
-pkg update
-
-pkg upgrade
-
+### Installation:
++ ```apt update```
++ ```apt upgrade```
++ ```apt install git -y```
 pkg install python
 
 pkg install python2
