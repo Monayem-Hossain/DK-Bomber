@@ -9,7 +9,7 @@ SMS BOMBING TOOL
 + ```pip install requests```
 + ```pip install mechanize```
 + ```pkg install git```
-+ ```git clone https://github.com/Devil-King-Monayem/DK-Bomber```
++ ```git clone https://github.com/Monayem-Hossain/DK-Bomber```
 + ```cd DK-Bomber```
 + ```pip install requests```
 + ```python DK-Bomb.py```
